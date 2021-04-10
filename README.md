@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hahyuning&show_icons=true&theme=dracula)](https://github.com/hahyuning/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hahyuning&hide=jupyternotebook)](https://github.com/hahyuning/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hahyuning&exclude_repo=Spring_project,Django_project.coding_test)](https://github.com/hahyuning/github-readme-stats)
 
 # Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hahyuning&repo=Spring_project&theme=dracula)](https://github.com/hahyuning/Spring_project)
