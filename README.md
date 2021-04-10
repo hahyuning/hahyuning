@@ -16,11 +16,8 @@ Here are some ideas to get you started:
 -->
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hahyuning)](https://github.com/anuraghazra/github-readme-stats)
- 
- 
- 
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
+ <br>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse&20IDE&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp;
