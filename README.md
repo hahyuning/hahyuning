@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 
 # Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hahyuning&repo=Spring_project&theme=dracula)](https://github.com/hahyuning/Spring_project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hahyuning&repo=Django_project&theme=dracula)](https://github.com/hahyuning/Django_project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hahyuning&repo=coding_test&theme=dracula)](https://github.com/hahyuning/coding_test)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hahyuning&repo=ML_notebook&theme=dracula)](https://github.com/hahyuning/ML_notebook)
 
 
 ## Online Coding
