@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 # Repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hahyuning&repo=Spring_project?theme=dracula)](https://github.com/hahyuning/Spring_project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hahyuning&repo=Spring_project&theme=dracula)](https://github.com/hahyuning/Spring_project)
 
 
 ## Online Coding
