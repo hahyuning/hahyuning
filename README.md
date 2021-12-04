@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ## Skills
 #### Backend
 + Java, Python 
-+ Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Django 
++ Spring Boot, Spring MVC, Spring Data JPA, Django 
 + JPA, Junit, Mockito 
-+ Gradle 
++ Gradle
 
 #### IDE 
 + IntelliJ, Eclipse 
@@ -36,11 +36,10 @@ Here are some ideas to get you started:
 + AWS - RDS
 
 #### Frontend 
-+ HTML5, CSS3, JavaScript 
++ JSP, JavaScript
 
 #### Ect 
 + AWS - EC2, S3 
-+ Docker 
 + Linux, Ubuntu 
 + Git 
 
