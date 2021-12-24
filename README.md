@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 + AWS - EC2, S3 
 + Linux, Ubuntu 
 + Git bash
+<br>
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
