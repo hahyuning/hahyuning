@@ -73,5 +73,3 @@ Here are some ideas to get you started:
 - 자바 스터디 참여중
 
 ## Projects
-
-
