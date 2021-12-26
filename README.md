@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### Statics
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hahyuning&hide=contribs,prs&show_icons=true&theme=dracula)](https://github.com/hahyuning)
+[![hahyuning's github stats](https://github-readme-stats.vercel.app/api?username=hahyuning&hide=contribs,prs&show_icons=true&theme=dracula)](https://github.com/hahyuning)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hahyuning)](https://solved.ac/hahyuning)
-
+[![hahynning's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hahyuning&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hahyuning)
 
 ## Skills
 #### Backend
