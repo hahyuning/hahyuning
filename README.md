@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 #### Backend
 + Java, Python 
 + Spring, Spring Boot, Django
++ Spring Sequrity, Spring MVC
 + JPA, Data JPA
 + Rest API, OAuth, JWT
 + Nginx, Apache
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
 + AWS - RDS
 
 #### Frontend 
-+ JSP, AJax
++ JSP, JQuery, AJax
 + HTML, CSS, JS
 
 #### Ect 
@@ -66,7 +67,7 @@ Here are some ideas to get you started:
 - 대학교 수학 전공
 - IT 학원 빅데이터 분석과 응용 소프트웨어 개발자 과정 이수
 - SQL 개발자 자격증 취득
-- 정보처리기사 필기 취득 (실기 신청 예정)
+- 정보처리기사 필기 취득 (실기 응시 예정)
 - CS 전공지식 독학 (운영체제, 네트워크, 데이터베이스, 자료구조, 알고리즘)
 - 스프링 MVC, JPA 온라인 교육 이수 
 - 파이썬 코딩 테스트 스터디 참여
