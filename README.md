@@ -27,23 +27,26 @@ Here are some ideas to get you started:
 #### Backend
 + Java, Python 
 + Spring, Spring Boot, Django
-+ Spring Sequrity, Spring MVC
++ Spring MVC, Spring Data, Spring Sequrity
 + JPA, Data JPA
 + Rest API, OAuth, JWT
-+ Nginx, Apache
++ Nginx, Apache, AWS - EC2
 
 #### Database 
-+ MySQL, MongoDB
++ MySQL, Oracle
++ MongoDB
 + AWS - RDS
 
 #### Frontend 
 + JSP, JQuery, AJax
++ Node.js, React
 + HTML, CSS, JS
 
 #### Ect 
-+ AWS - EC2, S3 
++ AWS - S3 
 + Linux, Ubuntu 
 + Git bash
+
 <br>
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>&nbsp;
@@ -72,7 +75,7 @@ Here are some ideas to get you started:
 - SQL 개발자 자격증 취득
 - 정보처리기사 필기 취득 (실기 응시 예정)
 - CS 전공지식 독학 (운영체제, 네트워크, 데이터베이스, 자료구조, 알고리즘)
-- 스프링 MVC, JPA 온라인 교육 이수 
+- 스프링 부트, JPA 온라인 교육 이수 
 - 파이썬 코딩 테스트 스터디 참여
 - 자바 스터디 참여중
 
