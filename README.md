@@ -79,6 +79,6 @@ Here are some ideas to get you started:
 - 파이썬 코딩 테스트 스터디 참여
 - 자바 스터디 참여중
 
-<>
+<br>
 
 ## Projects
