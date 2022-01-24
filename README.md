@@ -1,6 +1,6 @@
 <div align="center">
  
-## :heart: Introduce :heart:
+# :heart: Introduce :heart:
 
 <!--
 **hahyuning/hahyuning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -70,8 +70,8 @@ Windows                  21 hrs 19 mins      ███████████�
 
 <br>
 
-## Skills
-#### Backend
+# Skills
+### Backend
 + Java, Python 
 + Spring, Spring Boot, Django
 + Spring MVC, Spring Data, Spring Sequrity
@@ -79,17 +79,17 @@ Windows                  21 hrs 19 mins      ███████████�
 + Rest API, OAuth, JWT
 + Nginx, Apache, AWS - EC2
 
-#### Database 
+### Database 
 + MySQL, Oracle
 + MongoDB
 + AWS - RDS
 
-#### Frontend 
+### Frontend 
 + JSP, JQuery, AJax
 + Node.js, React
 + HTML, CSS, JS
 
-#### Ect 
+### Ect 
 + AWS - S3 
 + Linux, Ubuntu 
 + Git bash
@@ -120,7 +120,7 @@ Windows                  21 hrs 19 mins      ███████████�
  
 <br>
 
-## Education
+# Education
 - 대학교 수학 전공
 - IT 학원 빅데이터 분석과 응용 소프트웨어 개발자 과정 이수
 - SQL 개발자 자격증 취득
@@ -132,4 +132,4 @@ Windows                  21 hrs 19 mins      ███████████�
 
 <br>
 
-## Projects
+# Projects
