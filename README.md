@@ -1,4 +1,5 @@
 <div align="center">
+ 
 ## :heart: Introduce :heart:
 
 <!--
@@ -17,10 +18,14 @@ Here are some ideas to get you started:
 -->
 
 ### Statics
-[![hahyuning's github stats](https://github-readme-stats.vercel.app/api?username=hahyuning&hide=contribs,prs&show_icons=true&theme=dracula)](https://github.com/hahyuning)
+[![hahyuning's github stats](https://github-readme-stats.vercel.app/api?username=hahyuning&hide=contribs,prs&show_icons=true&theme=dracula)](https://github.com/hahyuning)<br>
+ 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hahyuning)](https://solved.ac/hahyuning)
 [![hahynning's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hahyuning&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hahyuning)
 
+</div>
+<br>
+ 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2024%20mins-blue)
 
@@ -63,6 +68,8 @@ Windows                  21 hrs 19 mins      ███████████�
  Last Updated on 23/01/2022 18:41:14 UTC
 <!--END_SECTION:waka-->
 
+<br>
+
 ## Skills
 #### Backend
 + Java, Python 
@@ -89,6 +96,7 @@ Windows                  21 hrs 19 mins      ███████████�
 
 <br>
 
+<div align=center>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
@@ -108,7 +116,8 @@ Windows                  21 hrs 19 mins      ███████████�
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
-
+</div>
+ 
 ## Education
 - 대학교 수학 전공
 - IT 학원 빅데이터 분석과 응용 소프트웨어 개발자 과정 이수
@@ -122,6 +131,3 @@ Windows                  21 hrs 19 mins      ███████████�
 <br>
 
 ## Projects
- 
-
-</div>
