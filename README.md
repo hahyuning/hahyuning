@@ -118,6 +118,8 @@ Windows                  21 hrs 19 mins      ███████████�
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
 </div>
  
+<br>
+
 ## Education
 - 대학교 수학 전공
 - IT 학원 빅데이터 분석과 응용 소프트웨어 개발자 과정 이수
