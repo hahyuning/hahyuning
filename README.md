@@ -30,13 +30,12 @@ Here are some ideas to get you started:
 ### Backend
 + Java, Python 
 + Spring, Spring Boot, Django
-+ Spring MVC, Spring Data, Spring Sequrity
-+ JPA, Data JPA
-+ Rest API, OAuth, JWT
++ Spring MVC, Spring Data JPA, Spring Security
++ JPA, Rest API, OAuth, JWT
 + Nginx, Apache, AWS - EC2
 
 ### Database 
-+ MySQL, Oracle
++ MySQL, MariaDB
 + MongoDB
 + AWS - RDS
 
@@ -48,7 +47,7 @@ Here are some ideas to get you started:
 ### Ect 
 + AWS - S3 
 + Linux, Ubuntu 
-+ Git bash
++ Git, Git bash
 
 <br>
 
