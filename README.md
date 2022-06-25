@@ -48,15 +48,3 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
 </div>
- 
-<br>
-
-# Education
-- 대학교 수학 전공
-- IT 학원 빅데이터 분석과 응용 소프트웨어 개발자 과정 이수
-- SQL 개발자 자격증 취득
-- 정보처리기사 자격증 취득
-- CS 전공지식 (운영체제, 네트워크, 데이터베이스, 자료구조, 알고리즘)
-- 스프링 부트, JPA 온라인 교육 이수 
-- 파이썬 코딩 테스트 스터디 참여
-- 자바 스터디 참여
